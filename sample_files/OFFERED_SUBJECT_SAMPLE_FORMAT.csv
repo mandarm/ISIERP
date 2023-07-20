@@ -1,0 +1,10 @@
+subject_code,subject_name,credit,faculty_email,subject_type,elective_thread,subject_category
+MA 301,"Mathematics-II (Calculus and
+Differential Equation)",4,anirban@iiitkalyani.ac.in,COMPULSORY,,
+CS 301,Computer Organization and Architecture,3,debasish@iiitkalyani.ac.in,COMPULSORY,,THEORY
+CS 302,Algorithms-I,4,hafi786@iiitkalyani.ac.in,COMPULSORY,,THEORY
+CS 303,Formal Languages and Automata Theory,4,imon@iiitkalyani.ac.in,COMPULSORY,ELECTIVE_1,THEORY
+HU 301,Humanities-III (Psychology),3,maahirri@iiitkalyani.ac.in,COMPULSORY,,THEORY
+CS 311,Computer Organization and Architecture Lab,2,debasish@iiitkalyani.ac.in,COMPULSORY,,SESSIONAL
+CS 312,Algorithm-I Lab,2,hafi786@iiitkalyani.ac.in,COMPULSORY,,SESSIONAL
+CS 313,Data Science Lab-I (Python),2,bhaskar@iiitkalyani.ac.in,COMPULSORY,,SESSIONAL
